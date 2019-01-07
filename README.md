@@ -2,7 +2,7 @@
 a pályamunkák gyűjtőhelye
 
 ## verseny célja
-Nehéz olyan fejlesztőknek szóló megmérettetést csinálni, ami ne zárná ki a más programozási nyelvet ismerőt táborát. De itt ez a nyelv, ami nem rég jött létre, így szinte mindenki tiszta lappal indulhat, egyenlő esélyekkel. Ráadásul jó móka is! :)
+Nehéz olyan fejlesztőknek szóló megmérettetést csinálni, ami ne zárná ki a más programozási nyelvet ismerőt táborát. De itt ez a nyelv, ami nem rég jött létre, így szinte mindenki tiszta lappal indulhat, egyenlő esélyekkel. Ráadásul jó móka is! :) Ezen túl cél még az open source világ népszerűsítése is, mert mindig az első PR a legnehezebb!
 
 ## ki pályázhat?
 Bárki, akár több pályamunkával is. 
