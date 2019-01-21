@@ -1,0 +1,1 @@
+function Passing(yourheart,yoursoul){if(yourheart>0){while(yoursoul>=yourheart){yoursoul=yoursoul-yourheart;}return yoursoul;}}Life=1;Death=100;while(Life<=Death){Child=1;End=Life;Count=0;while(Child<=End){if(Passing(Child,End)===0){Count++;}Child++;}if(Count===2){console.log(Life);}Life++;}
