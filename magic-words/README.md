@@ -1,3 +1,3 @@
 # Magic Words
 
-Tessék kihúzni jó szélesre a konzolt, hogy elférjen a medzsik.
+TessÃ©k kihÃºzni jÃ³ szÃ©lesre a konzolt, hogy elfÃ©rjen a medzsik.
