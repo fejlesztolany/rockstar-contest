@@ -1,0 +1,195 @@
+First is mysterious
+Second is mysterious
+Third is mysterious
+Fourth is mysterious
+Fifth is mysterious
+
+Word takes Number and Letter and Spacing
+Repeating is empty
+Put "" into Repeating
+Jump is zeronumber
+While Jump ain't Number
+Put Repeating + Letter into Repeating
+Build Jump up
+
+Jump is again'a'zero
+While Jump ain't Spacing
+Put Repeating + " " into Repeating
+Build Jump up
+
+Give back Repeating
+
+Put "" into First
+Your letter says F
+Put First + Word taking 5, your letter, 2 into First
+Your letter says E
+Put First + Word taking 5, your letter, 6 into First
+Your letter says J
+Put First + Word taking 1, your letter, 2 into First
+Your letter says L
+Put First + Word taking 1, your letter, 6 into First
+Your letter says E
+Put First + Word taking 5, your letter, 3 into First
+Your letter says S
+Put First + Word taking 3, your letter, 3 into First
+Your letter says Z
+Put First + Word taking 5, your letter, 2 into First
+Your letter says T
+Put First + Word taking 5, your letter, 3 into First
+Your letter says Ő
+Put First + Word taking 3, your letter, 8 into First
+Your letter says L
+Put First + Word taking 1, your letter, 8 into First
+Your letter says Á
+Put First + Word taking 1, your letter, 4 into First
+Your letter says N
+Put First + Word taking 1, your letter, 3 into First
+Your letter says N
+Put First + Word taking 1, your letter, 2 into First
+Your letter says Y
+Put First + Word taking 1, your letter, 3 into First
+Your letter says Y
+Put First + Word taking 1, your letter, 0 into First
+Put "" into Second
+Your letter says F
+Put Second + Word taking 1, your letter, 6 into Second
+Your letter says E
+Put Second + Word taking 1, your letter, 10 into Second
+Your letter says J
+Put Second + Word taking 1, your letter, 2 into Second
+Your letter says L
+Put Second + Word taking 1, your letter, 6 into Second
+Your letter says E
+Put Second + Word taking 1, your letter, 6 into Second
+Your letter says S
+Put Second + Word taking 2, your letter, 2 into Second
+Your letter says S
+Put Second + Word taking 1, your letter, 5 into Second
+Your letter says Z
+Put Second + Word taking 1, your letter, 5 into Second
+Your letter says T
+Put Second + Word taking 1, your letter, 4 into Second
+Your letter says Ő
+Put Second + Word taking 1, your letter, 3 into Second
+Your letter says Ő
+Put Second + Word taking 1, your letter, 7 into Second
+Your letter says L
+Put Second + Word taking 1, your letter, 7 into Second
+Your letter says Á
+Put Second + Word taking 1, your letter, 1 into Second
+Your letter says Á
+Put Second + Word taking 1, your letter, 3 into Second
+Your letter says N
+Put Second + Word taking 2, your letter, 2 into Second
+Your letter says N
+Put Second + Word taking 1, your letter, 2 into Second
+Your letter says Y
+Put Second + Word taking 1, your letter, 3 into Second
+Your letter says Y
+Put Second + Word taking 1, your letter, 0 into Second
+Put "" into Third
+Your letter says F
+Put Third + Word taking 3, your letter, 4 into Third
+Your letter says E
+Put Third + Word taking 3, your letter, 8 into Third
+Your letter says J
+Put Third + Word taking 1, your letter, 2 into Third
+Your letter says L
+Put Third + Word taking 1, your letter, 6 into Third
+Your letter says E
+Put Third + Word taking 3, your letter, 6 into Third
+Your letter says S
+Put Third + Word taking 1, your letter, 6 into Third
+Your letter says Z
+Put Third + Word taking 1, your letter, 6 into Third
+Your letter says T
+Put Third + Word taking 1, your letter, 4 into Third
+Your letter says Ő
+Put Third + Word taking 1, your letter, 3 into Third
+Your letter says Ő
+Put Third + Word taking 1, your letter, 7 into Third
+Your letter says L
+Put Third + Word taking 1, your letter, 6 into Third
+Your letter says Á
+Put Third + Word taking 5, your letter, 2 into Third
+Your letter says N
+Put Third + Word taking 1, your letter, 1 into Third
+Your letter says N
+Put Third + Word taking 1, your letter, 1 into Third
+Your letter says N
+Put Third + Word taking 1, your letter, 3 into Third
+Your letter says Y
+Put Third + Word taking 3, your letter, 0 into Third
+Put "" into Fourth
+Your letter says F
+Put Fourth + Word taking 1, your letter, 6 into Fourth
+Your letter says E
+Put Fourth + Word taking 1, your letter, 6 into Fourth
+Your letter says J
+Put Fourth + Word taking 1, your letter, 3 into Fourth
+Your letter says J
+Put Fourth + Word taking 1, your letter, 2 into Fourth
+Your letter says L
+Put Fourth + Word taking 1, your letter, 6 into Fourth
+Your letter says E
+Put Fourth + Word taking 1, your letter, 6 into Fourth
+Your letter says S
+Put Fourth + Word taking 1, your letter, 2 into Fourth
+Your letter says S
+Put Fourth + Word taking 2, your letter, 3 into Fourth
+Your letter says Z
+Put Fourth + Word taking 1, your letter, 7 into Fourth
+Your letter says T
+Put Fourth + Word taking 1, your letter, 4 into Fourth
+Your letter says Ő
+Put Fourth + Word taking 1, your letter, 3 into Fourth
+Your letter says Ő
+Put Fourth + Word taking 1, your letter, 7 into Fourth
+Your letter says L
+Put Fourth + Word taking 1, your letter, 6 into Fourth
+Your letter says Á
+Put Fourth + Word taking 1, your letter, 3 into Fourth
+Your letter says Á
+Put Fourth + Word taking 1, your letter, 2 into Fourth
+Your letter says N
+Put Fourth + Word taking 1, your letter, 2 into Fourth
+Your letter says N
+Put Fourth + Word taking 2, your letter, 4 into Fourth
+Your letter says Y
+Put Fourth + Word taking 1, your letter, 0 into Fourth
+Put "" into Fifth
+Your letter says F
+Put Fifth + Word taking 1, your letter, 6 into Fifth
+Your letter says E
+Put Fifth + Word taking 5, your letter, 3 into Fifth
+Your letter says J
+Put Fifth + Word taking 3, your letter, 3 into Fifth
+Your letter says L
+Put Fifth + Word taking 5, your letter, 2 into Fifth
+Your letter says E
+Put Fifth + Word taking 5, your letter, 3 into Fifth
+Your letter says S
+Put Fifth + Word taking 3, your letter, 3 into Fifth
+Your letter says Z
+Put Fifth + Word taking 5, your letter, 4 into Fifth
+Your letter says T
+Put Fifth + Word taking 1, your letter, 5 into Fifth
+Your letter says Ő
+Put Fifth + Word taking 3, your letter, 8 into Fifth
+Your letter says L
+Put Fifth + Word taking 5, your letter, 2 into Fifth
+Your letter says Á
+Put Fifth + Word taking 1, your letter, 3 into Fifth
+Your letter says Á
+Put Fifth + Word taking 1, your letter, 2 into Fifth
+Your letter says N
+Put Fifth + Word taking 1, your letter, 3 into Fifth
+Your letter says N
+Put Fifth + Word taking 1, your letter, 4 into Fifth
+Your letter says Y
+Put Fifth + Word taking 1, your letter, 0 into Fifth
+Say First
+Say Second
+Say Third
+Say Fourth
+Say Fifth
